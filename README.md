@@ -1,5 +1,5 @@
 
-# Breadit - A Modern Fullstack Reddit Clone 
+# ChitHub - A Modern Fullstack Reddit Clone 
 
 Built with the Next.js App Router, TypeScript & Tailwind
 
@@ -23,7 +23,7 @@ Built with the Next.js App Router, TypeScript & Tailwind
 To get started with this project, run
 
 ```bash
-  git clone -b starter-code https://github.com/joschan21/breadit.git
+  git clone -b starter-code https://github.com/joschan21/ChitHub.git
 ```
 
 and copy these .env.example variables into a separate .env file:

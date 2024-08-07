@@ -10,7 +10,7 @@ import { notFound } from 'next/navigation'
 import { ReactNode } from 'react'
 
 export const metadata: Metadata = {
-  title: 'Breadit',
+  title: 'ChitHub',
   description: 'A Reddit clone built with Next.js and TypeScript.',
 }
 
